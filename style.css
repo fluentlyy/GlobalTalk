@@ -484,3 +484,116 @@ span {
   width: 580px;
   height: 473.973px;
 }
+.main__section-3 {
+  height: 600px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 20px;
+  align-self: stretch;
+}
+.section-3__block-1 {
+  width: 680px;
+  height: 409.254px;
+}
+.block__img-3 {
+  width: 680px;
+  height: 409.254px;
+}
+.section-3__block-2 {
+  width: 474px;
+  height: 302px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+}
+.block__txt-2 {
+  color: var(--primaty-grey-dark, #757575);
+  font-family: Montserrat;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 140%; /* 25.2px */
+  letter-spacing: -0.72px;
+  width: 396.886px;
+  margin: 30px 0 34px 0;
+}
+.footer {
+  height: 160px;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: var(--primaty-grey-light, #f6f5f4);
+}
+.footer__body {
+  width: 1180px;
+  height: 80px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 20px;
+}
+.footer__block-1 {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  align-self: stretch;
+  width: 1180px;
+  height: 14px;
+}
+.block-1__content-1 {
+  width: 414px;
+  height: 14px;
+  display: flex;
+  align-items: flex-start;
+  gap: 30px;
+}
+.block-1__txt {
+  color: var(--primaty-grey-dark, #757575);
+  font-family: Montserrat;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 100%; /* 14px */
+}
+.block-1__content-2 {
+  width: 197px;
+  height: 14px;
+  display: flex;
+  align-items: flex-start;
+  gap: 30px;
+}
+.footer__line {
+  width: 1180px;
+  align-self: stretch;
+  height: 1px;
+  background-color: #e0e0e0;
+}
+.footer__block-2 {
+  display: flex;
+  width: 1180px;
+  height: 26px;
+  justify-content: space-between;
+  align-items: center;
+}
+.block-2__content {
+  width: 150px;
+  height: 24px;
+  display: flex;
+  align-items: center;
+  gap: 30px;
+}
+.block__icons {
+  width: 30px;
+  height: 24px;
+}
+.block-2__txt {
+  color: var(--primaty-grey-dark, #757575);
+  font-family: Montserrat;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 100%; /* 12px */
+}
